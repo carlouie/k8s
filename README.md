@@ -5,4 +5,6 @@
 - etcd (key-value store):
 - controller:
 - scheduler:
-- worker node: consists of Container Runtime, Pods, Kubelet, Kube-Proxy
+- worker node: 
+      machine controlled by the master node
+      consists of Container Runtime, Pods, Kubelet, Kube-Proxy
